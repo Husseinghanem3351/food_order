@@ -1,16 +1,27 @@
-# food_order2
 
-A new Flutter project.
+---
+
+### 🍽️ 4. Order App
+```markdown
+# Order App
+Restaurant food ordering application.
+
+## Features
+- Browse menus and customize orders
+- Real-time order placement and tracking
+- Firebase authentication and database
+- Bloc for state management and responsive UI design
+
+## Tech Stack
+Flutter • Dart • Firebase (Auth, Firestore) • Bloc
+
+## Demo
+[Watch Video](https://youtu.be/ilIa-eLakLI)
 
 ## Getting Started
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Husseinghanem3351/food_order
+2. Run flutter pub get
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3. Start with flutter run
